@@ -69,7 +69,6 @@ This project analyzes **12,234 order records** from McDonald's alongside a struc
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel** — Pivot Tables, Charts, Dashboard
-- **Python** *(optional)* — Pandas, Matplotlib, Seaborn
 - **Data Sources** — McDonald's simulated menu & order data
 
 ---
