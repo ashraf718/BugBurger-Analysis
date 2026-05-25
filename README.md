@@ -64,22 +64,7 @@ This project analyzes **12,234 order records** from McDonald's alongside a struc
 
 ---
 
-## 🗂️ Project Structure
-mcdonalds-data-analysis/
-│
-├── data/
-│   ├── mcdonal_s_menu_items.xlsx   # Menu items dataset
-│   └── order_details.csv           # Order transaction records
-│
-├── dashboard/
-│   └── dashboard.xlsx              # Interactive Excel dashboard
-│
-├── analysis/
-│   └── analysis.ipynb              # (Optional) Python analysis notebook
-│
-└── README.md
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -101,13 +86,9 @@ mcdonalds-data-analysis/
    - Open `dashboard/dashboard.xlsx` in Microsoft Excel
    - Use slicers/filters to explore revenue by category, day, or month
 
-3. **Run Python Analysis** *(optional)*
-```bash
-   pip install pandas openpyxl matplotlib
-   jupyter notebook analysis/analysis.ipynb
+
 ```
 
----
 
 ## 📌 Use Cases
 
